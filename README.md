@@ -15,7 +15,7 @@ Este repositório é uma **base para criar bots do Discord**, pensada para ajuda
 1. **Clone o repositório:**
    Primeiro, faça o clone do repositório para sua máquina local:
    ```bash
-   git clone https://github.com/nthwx/discord-bot-basev14.git
+   git clone https://github.com/nofode/discord-bot-basev14.git
    cd @base-bot-discord
    ```
 
@@ -58,7 +58,7 @@ Aqui estão as bibliotecas que você vai usar:
 ## Autor
 
 - **Nome**: Nathan
-- **GitHub**: [nthwx](https://github.com/nthwx/)
+- **GitHub**: [Nathan](https://github.com/nofode/)
 - **Discord**: [nofode](https://discord.gg/login)
 
 ## Licença
