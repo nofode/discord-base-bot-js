@@ -1,0 +1,39 @@
+{
+  "name": "@/base-bot-discord",
+  "description": "Base para discord",
+  "version": "1.0.0",
+  "main": "src/forever.js",
+  "type": "module",
+  "author": {
+    "name": "nathan",
+    "url": "https://github.com/nthwx/",
+    "discord": {
+      "id": "1286796274678501438",
+      "username": "nofode",
+      "url": "https://discord.gg/login"
+    }
+  },
+  "keywords": [
+    "discord",
+    "base",
+    "server",
+    "devs"
+  ],
+  "dependencies": {
+    "@magicyan/discord": "^1.2.2",
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.7",
+    "ping": "^0.4.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "scripts": {
+    "dev": "nodemon src/forever.js"
+  },
+  "imports": {
+    "#base": [
+      "./src/settings/bases/index.js"
+    ]
+  }
+}
