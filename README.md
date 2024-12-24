@@ -28,7 +28,7 @@ Este repositório é uma **base para criar bots do Discord**, pensada para ajuda
 3. **Configure as variáveis de ambiente:**
    Crie um arquivo `.env` na raiz do projeto e adicione seu **token** do Discord:
    ```
-   DISCORD_TOKEN=seu_token_aqui
+   botToken=seu_token_aqui
    ```
 
 4. **Inicie o bot em modo de desenvolvimento:**
